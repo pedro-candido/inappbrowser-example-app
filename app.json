@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "inapp-example",
+    "slug": "inapp-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
